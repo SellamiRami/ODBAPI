@@ -1,0 +1,30 @@
+<executionManifest>
+	<endpoint Database-Type="database/MySQL">
+		<url>jdbc:mysql://</url>
+		<host>localhost</host>
+		<port>3306</port>
+		<login>root</login>
+		<password>seipasMySQL</password>
+	</endpoint>
+	<endpoint Database-Type="database/Riak">
+		<url></url>
+		<host></host>
+		<port></port>
+		<login></login>
+		<password></password>
+	</endpoint>
+	<endpoint Database-Type="database/mongoDB">
+		<url></url>
+		<host>localhost</host>
+		<port>27017</port>
+		<login></login>
+		<password></password>
+	</endpoint>
+	<endpoint Database-Type="database/couchDB">
+		<url></url>
+		<host>localhost</host>
+		<port>5984</port>
+		<login></login>
+		<password></password>
+	</endpoint>
+</executionManifest>

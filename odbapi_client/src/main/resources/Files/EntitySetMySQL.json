@@ -1,0 +1,19 @@
+{
+    "table": [
+        {
+            "colName": "id",
+            "coltype": "INTEGER",
+			"colConstraint": "PRIMARY KEY NOT NULL"
+        },
+        {
+            "colName": "nom",
+            "coltype": "VARCHAR(255)",
+			"colConstraint": ""
+        },
+        {
+            "colName": "prenom",
+            "coltype": "VARCHAR(255)",
+			"colConstraint": ""
+        }
+    ]
+}

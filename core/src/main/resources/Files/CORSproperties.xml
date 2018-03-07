@@ -1,0 +1,7 @@
+<CORS-headers>
+	<Access-Control-Allow-Origin>http://localhost:8080</Access-Control-Allow-Origin>
+	<Access-Control-Allow-Methods>GET,POST,OPTIONS</Access-Control-Allow-Methods>
+	<Access-Control-Allow-Headers>Content-Type,Database-Name,Database-Type</Access-Control-Allow-Headers>
+	<Access-Control-Allow-Credentials>false</Access-Control-Allow-Credentials>
+	<Access-Control-Max-Age>60</Access-Control-Max-Age>
+</CORS-headers>
